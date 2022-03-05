@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Reverse Engineering**
+- 🌱 I’m currently learning **Web Exploitation**
 
 - 📫 How to reach me **japneet8833@gmail.com**
 
